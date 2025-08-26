@@ -8,7 +8,7 @@ This is a cheat Mod, using by your own risk.
 > Higher versions will crash.
 
 ## Feature
-- Cheat
+- Cheat 
 	- Auto Play
 	- Fast Skip
 	- Chart Controller
